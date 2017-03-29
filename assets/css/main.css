@@ -1934,7 +1934,10 @@
 		footer.major {
 			padding-top: 3em;
 		}
-
+	.opener.active {
+		background-color: #98C0AC;
+		}
+	
 /* Form */
 
 	input[type="text"],
