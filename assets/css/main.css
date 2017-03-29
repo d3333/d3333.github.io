@@ -2915,7 +2915,7 @@
 					}
 
 			#navPanel {
-				background-color: #1f1f1f;
+				background-color: #6BA387;
 				box-shadow: inset -1px 0 3px 0 rgba(0, 0, 0, 0.5);
 				background-image: -moz-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
 				background-image: -webkit-linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15)), url("images/bg01.png");
@@ -2946,7 +2946,8 @@
 				#navPanel .link {
 					border-bottom: 0;
 					border-top: solid 1px rgba(255, 255, 255, 0.05);
-					color: #888;
+					color: #fff;
+					opacity: 1;
 					display: block;
 					height: 48px;
 					line-height: 48px;
@@ -2960,6 +2961,7 @@
 
 					#navPanel .link.depth-0 {
 						color: #fff;
+						opacity:0.5;
 					}
 
 					#navPanel .link .indent-1 {
