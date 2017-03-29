@@ -2343,7 +2343,7 @@
 	}
 
 		#header h1 {
-			padding: 0 0 2.75em 0;
+			padding: 0 0 0.5em 0;
 			margin: 0;
 		}
 
@@ -2444,10 +2444,10 @@
 
 	.dropotron {
 		background-color: #98C0AC;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		border-radius: 5px;
 		color: #333;
 		min-width: 10em;
@@ -2462,13 +2462,14 @@
 		}
 
 			.dropotron > li > a {
-				color: #c0c0c0;
+				color: #333;
 				text-decoration: none;
 				border: 0;
 			}
 
 			.dropotron > li.active > a, .dropotron > li:hover > a {
 				color: #333;
+				opacity: 0.6;
 			}
 
 		.dropotron.level-0 {
@@ -2855,14 +2856,14 @@
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background-color: #333;
+				background-color: #6ba387;
 				background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 				background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 				background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 				background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3)), url("images/bg01.png");
 				height: 44px;
 				line-height: 44px;
-				box-shadow: 0 4px 0 0 #37c0fb;
+				box-shadow: 0 4px 0 0 #98c0ac;
 			}
 
 				#titleBar .title {
