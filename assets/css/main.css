@@ -2351,6 +2351,11 @@
 				letter-spacing: -0.025em;
 				border: 0;
 			}
+		#header h1 a:hover{
+			color: #183A33;
+		
+		}
+			
 
 	#nav {
 		cursor: default;
@@ -2492,7 +2497,7 @@
 			background: rgba(27, 27, 27, 0.4);
 			color: #fff;
 			padding: 0.5em 0;
-			margin: 13%;
+			margin: 13% 0;
 		}
 
 			#banner header h2 {
