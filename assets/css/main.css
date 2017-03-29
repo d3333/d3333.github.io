@@ -1934,9 +1934,7 @@
 		footer.major {
 			padding-top: 3em;
 		}
-	li.opener {
-		background-color: #98C0AC;
-		}
+
 	
 /* Form */
 
@@ -2445,13 +2443,13 @@
 /* Dropotron */
 
 	.dropotron {
-		background-color: #333000;
+		background-color: #98C0AC;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0,0,0,0.3), rgba(0,0,0,0)), url("images/bg01.png");
 		border-radius: 5px;
-		color: #fff;
+		color: #333;
 		min-width: 10em;
 		padding: 1em 0;
 		text-align: center;
@@ -2470,7 +2468,7 @@
 			}
 
 			.dropotron > li.active > a, .dropotron > li:hover > a {
-				color: #fff;
+				color: #333;
 			}
 
 		.dropotron.level-0 {
