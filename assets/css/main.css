@@ -2357,7 +2357,7 @@
 		
 		}
 		.logo-container{
-			width: 50%;
+			width: 60%;
 			margin: 0 0 auto;
 		}
 		.logo-img{
@@ -2387,6 +2387,7 @@
 		}
 
 		#nav > ul {
+			width: 70%;
 			margin: 0;
 		}
 
