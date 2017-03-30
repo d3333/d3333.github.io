@@ -2430,8 +2430,9 @@
 						bottom: -0.5em;
 						left: 50%;
 						margin-left: -0.375em;
-						background-color: #3D916F;
+						background-color: rgba(0, 28, 17, 0.8);
 						background-image: url("images/bg01.png");
+						color:#f1f1f1;
 					}
 
 					#nav > ul > li.current a {
@@ -2506,10 +2507,10 @@
 			left: 0;
 			width: 100%;
 			background: #212121;
-			background: rgba(27, 27, 27, 0.4);
+			background: rgba(10, 28, 17, 0.6);
 			color: #fff;
 			padding: 0.5em 0;
-			margin: 13% 0;
+			margin: 1em 0;
 		}
 
 			#banner header h2 {
