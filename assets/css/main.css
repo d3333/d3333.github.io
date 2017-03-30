@@ -2334,7 +2334,7 @@
 
 	#header {
 		text-align: center;
-		padding: 3em 0 0 0;
+		padding: 2em 0 0 0;
 		background-color: #fff;
 		background-image: url("images/bg02.png"), url("images/bg02.png"), url("images/bg01.png");
 		background-position: top left,					top left,					top left;
@@ -2356,6 +2356,15 @@
 			color: #183A33;
 		
 		}
+		.logo-container{
+			width: 50%;
+			margin: 0 0 auto;
+		}
+		.logo-img{
+			height:3em;
+			margin: -0.7em 0;
+}
+
 			
 
 	#nav {
