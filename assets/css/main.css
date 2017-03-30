@@ -2430,9 +2430,9 @@
 						bottom: -0.5em;
 						left: 50%;
 						margin-left: -0.375em;
-						background-color: rgba(0, 28, 17, 0.8);
+						background-color: 3D916F;
 						background-image: url("images/bg01.png");
-						color:#f1f1f1;
+						
 					}
 
 					#nav > ul > li.current a {
@@ -2454,13 +2454,13 @@
 /* Dropotron */
 
 	.dropotron {
-		background-color: #3D916F;
+		background-color: rgba(0, 28, 17, 0.8);
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		border-radius: 5px;
-		color: #333;
+		color: #f1f1f1;
 		min-width: 10em;
 		padding: 1em 0;
 		text-align: center;
@@ -2473,13 +2473,13 @@
 		}
 
 			.dropotron > li > a {
-				color: #333;
+				color: #f1f1f1;
 				text-decoration: none;
 				border: 0;
 			}
 
 			.dropotron > li.active > a, .dropotron > li:hover > a {
-				color: #333;
+				color: #fff;
 				opacity: 0.6;
 			}
 
