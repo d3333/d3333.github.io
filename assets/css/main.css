@@ -2430,7 +2430,7 @@
 						bottom: -0.5em;
 						left: 50%;
 						margin-left: -0.375em;
-						background-color: 3D916F;
+						background-color: #3D916F;
 						background-image: url("images/bg01.png");
 						
 					}
@@ -2454,7 +2454,7 @@
 /* Dropotron */
 
 	.dropotron {
-		background-color: rgba(0, 28, 17, 0.8);
+		background-color: rgba(2, 28, 17, 0.9);
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.03), rgba(0,0,0,0)), url("images/bg01.png");
